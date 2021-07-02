@@ -4,7 +4,7 @@
         "game": "teamspeak3",
         "addr": "darkstarclan.com",
         "port": 9987,
-        "channel": 859778877462937651,
+        "channel": 645300019200524298,
         "country": "DE",
         "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/c7ef16d0de8ecbddc08f293b174c4114e6e12c1b/images/game_icons/ts3.png?raw=true"
     },
@@ -13,7 +13,7 @@
         "game": "ARK Genesis",
         "addr": "darkstarclan.com",
         "port": 27020,
-        "channel": 859778877462937651,
+        "channel": 645300019200524298,
         "country": "DE",
         "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/d226b4fc19ebe321e0c787274cfa4dd83fd69de4/images/game_icons/ark_genesis.png?raw=true"
     },
@@ -22,7 +22,7 @@
         "game": "Arma 3 Escape",
         "addr": "darkstarclan.com",
         "port": 2403,
-        "channel": 859778877462937651,
+        "channel": 645300019200524298,
         "country": "DE",
         "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/8d26f96cf9836eb578e96a38ebc0aeecda1c6112/images/game_icons/arma3_escape.jpg?raw=true",
         "custom": "**Escape Preset**"
@@ -32,18 +32,27 @@
         "game": "minecraft",
         "addr": "darkstarclan.com",
         "port": 25565,
-        "channel": 859778877462937651,
+        "channel": 645300019200524298,
         "country": "DE",
         "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/14de18f601f40aab3ef1a827523c51cdd9ca92ac/images/game_icons/minecraft.png?raw=true",
         "custom": "**ask Qorn for modpack**"
     },
     {
         "type": "SourceQuery",
-        "game": "7d2d",
+        "game": "7 Days to Die",
         "addr": "darkstarclan.com",
         "port": 26900,
-        "channel": 859778877462937651,
+        "channel": 645300019200524298,
         "country": "DE",
         "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/7f204cdc5e64831c17d0994400b5325c51a57305/images/game_icons/7d2d.png?raw=true"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Insurgency Sandstorm",
+        "addr": "darkstarclan.com",
+        "port": 27131,
+        "channel": 645300019200524298,
+        "country": "DE",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/08b3dfef10e12e04cdb77b0909901a6815911cdf/images/game_icons/insurgency_sandstorm.jpg?raw=true"
     }
 ]
