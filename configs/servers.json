@@ -1,5 +1,14 @@
 [
     {
+        "type": "GamedigQuery",
+        "game": "teamspeak3",
+        "addr": "darkstarclan.com",
+        "port": 9987,
+        "channel": 859778877462937651,
+        "country": "DE",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/c7ef16d0de8ecbddc08f293b174c4114e6e12c1b/images/game_icons/ts3.png?raw=true"
+    },
+    {
         "type": "SourceQuery",
         "game": "ARK Genesis",
         "addr": "darkstarclan.com",
