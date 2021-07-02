@@ -1,1 +1,40 @@
-[]
+[
+    {
+        "type": "SourceQuery",
+        "game": "ARK Genesis",
+        "addr": "darkstarclan.com",
+        "port": 27020,
+        "channel": 859778877462937651,
+        "country": "DE",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/d226b4fc19ebe321e0c787274cfa4dd83fd69de4/images/game_icons/ark_genesis.png?raw=true"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3 Escape",
+        "addr": "darkstarclan.com",
+        "port": 2403,
+        "channel": 859778877462937651,
+        "country": "DE",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/8d26f96cf9836eb578e96a38ebc0aeecda1c6112/images/game_icons/arma3_escape.jpg?raw=true",
+        "custom": "**Escape Preset**"
+    },
+    {
+        "type": "GamedigQuery",
+        "game": "minecraft",
+        "addr": "darkstarclan.com",
+        "port": 25565,
+        "channel": 859778877462937651,
+        "country": "DE",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/14de18f601f40aab3ef1a827523c51cdd9ca92ac/images/game_icons/minecraft.png?raw=true",
+        "custom": "**ask Qorn for modpack**"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "7d2d",
+        "addr": "darkstarclan.com",
+        "port": 26900,
+        "channel": 859778877462937651,
+        "country": "DE",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/7f204cdc5e64831c17d0994400b5325c51a57305/images/game_icons/7d2d.png?raw=true"
+    }
+]
