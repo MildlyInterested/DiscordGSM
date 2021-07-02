@@ -77,7 +77,7 @@ class DiscordGSM():
 
     async def on_ready(self):
         # set username and avatar DARKSTAR
-        icon_file_name = 'images/darkstar_logo_transparent_square' + ('DGSM_TOKEN' in os.environ and '-heroku' or '') + '.png'
+        icon_file_name = 'images/darkstar_logo_transparent_square_2048' + ('DGSM_TOKEN' in os.environ and '-heroku' or '') + '.png'
         with open(icon_file_name, 'rb') as file:
             try:
                 await bot.user.edit(username='The Updater', avatar=file.read())
