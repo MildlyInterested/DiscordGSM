@@ -1,58 +1,60 @@
 [
     {
-        "type": "GamedigQuery",
-        "game": "teamspeak3",
-        "addr": "darkstarclan.com",
-        "port": 9987,
-        "channel": 645300019200524298,
-        "country": "DE",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/c7ef16d0de8ecbddc08f293b174c4114e6e12c1b/images/game_icons/ts3.png?raw=true"
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2303,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/16AA_Logo_White_Transparent.png?raw=true",
+        "custom": "**Main Operations Server**"
     },
     {
         "type": "SourceQuery",
-        "game": "ARK Genesis",
-        "addr": "darkstarclan.com",
-        "port": 27020,
-        "channel": 645300019200524298,
-        "country": "DE",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/d226b4fc19ebe321e0c787274cfa4dd83fd69de4/images/game_icons/ark_genesis.png?raw=true"
-    },
-    {
-        "type": "SourceQuery",
-        "game": "Arma 3 Escape",
-        "addr": "darkstarclan.com",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
         "port": 2403,
-        "channel": 645300019200524298,
-        "country": "DE",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/8d26f96cf9836eb578e96a38ebc0aeecda1c6112/images/game_icons/arma3_escape.jpg?raw=true",
-        "custom": "**Escape Preset**"
-    },
-    {
-        "type": "GamedigQuery",
-        "game": "minecraft",
-        "addr": "darkstarclan.com",
-        "port": 25565,
-        "channel": 645300019200524298,
-        "country": "DE",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/14de18f601f40aab3ef1a827523c51cdd9ca92ac/images/game_icons/minecraft.png?raw=true",
-        "custom": "**ask Qorn for modpack**"
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/16AA_Logo_White_Transparent.png?raw=true",
+        "custom": "**Training Server**"
     },
     {
         "type": "SourceQuery",
-        "game": "7 Days to Die",
-        "addr": "darkstarclan.com",
-        "port": 26900,
-        "channel": 645300019200524298,
+        "game": "Arma 3",
+        "addr": "backup.connect.16aa.net",
+        "port": 2303,
+        "channel": 860911205459427359,
         "country": "DE",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/7f204cdc5e64831c17d0994400b5325c51a57305/images/game_icons/7d2d.png?raw=true"
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/16AA_Logo_White_Transparent.png?raw=true",
+        "custom": "**Backup Server**"
     },
     {
         "type": "SourceQuery",
-        "game": "Insurgency Sandstorm",
-        "addr": "darkstarclan.com",
-        "port": 27131,
-        "channel": 645300019200524298,
-        "country": "DE",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/08b3dfef10e12e04cdb77b0909901a6815911cdf/images/game_icons/insurgency_sandstorm.jpg?raw=true"
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2603,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/game_icons/arma3_liberation.png?raw=true"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2613,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/game_icons/arma3_escape.jpg?raw=true"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2623,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/game_icons/arma3_mikeforce.png?raw=true"
     }
+
 ]

@@ -76,11 +76,11 @@ class DiscordGSM():
         self.presense_load.cancel()
 
     async def on_ready(self):
-        # set username and avatar DARKSTAR
-        icon_file_name = 'images/darkstar_logo_transparent_square_2048' + ('DGSM_TOKEN' in os.environ and '-heroku' or '') + '.png'
+        # set username and avatar 16AA
+        icon_file_name = 'images/16AA_Logo_White_Transparent' + ('DGSM_TOKEN' in os.environ and '-heroku' or '') + '.png'
         with open(icon_file_name, 'rb') as file:
             try:
-                await bot.user.edit(username='The Updater', avatar=file.read())
+                await bot.user.edit(username='Server Status', avatar=file.read())
             except:
                 pass
 
@@ -282,7 +282,7 @@ class DiscordGSM():
             embed.add_field(name=f'{FIELD_ADDRESS}:{FIELD_PORT}', value=f'{server["addr"]}:{server["port"]}', inline=True)
         
         #DARKSTAR
-        embed.set_footer(text=f'Terminator v{VERSION} | Server Monitor | Last update: ' + datetime.now().strftime('%a, %Y-%m-%d %H:%M:%S'), icon_url='https://github.com/DiscordGSM/DiscordGSM/raw/master/images/discordgsm.png')
+        embed.set_footer(text=f'Discord GSM v{VERSION} | Server Monitor | Last update: ' + datetime.now().strftime('%a, %Y-%m-%d %H:%M:%S'), icon_url='https://github.com/DiscordGSM/DiscordGSM/raw/master/images/discordgsm.png')
         
         return embed
 
