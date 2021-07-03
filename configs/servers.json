@@ -6,7 +6,7 @@
         "port": 2303,
         "channel": 860911205459427359,
         "country": "FI",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/c57798012766090b8f39429cc0e4722a7be9024c/images/16AA_blue_red_main.png?raw=true",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/0d830eff208407a3142d5c01fb45bc9babdbba8c/images/16AA_blue_red_main.png?raw=true",
         "custom": "**Main Operations Server**"
     },
     {
@@ -16,7 +16,7 @@
         "port": 2403,
         "channel": 860911205459427359,
         "country": "FI",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/1d17e471326d5b9d38b165930dccafc6901c8a6d/images/16AA_blue_red_training.png?raw=true",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/0d830eff208407a3142d5c01fb45bc9babdbba8c/images/16AA_blue_red_training.png?raw=true",
         "custom": "**Training Server**"
     },
     {
@@ -26,7 +26,7 @@
         "port": 2303,
         "channel": 860911205459427359,
         "country": "DE",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/1d17e471326d5b9d38b165930dccafc6901c8a6d/images/16AA_blue_red_backup.png?raw=true",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/0d830eff208407a3142d5c01fb45bc9babdbba8c/images/16AA_blue_red_backup.png?raw=true",
         "custom": "**Backup Server**"
     },
     {
