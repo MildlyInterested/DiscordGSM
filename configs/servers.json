@@ -36,7 +36,7 @@
         "port": 2603,
         "channel": 860911205459427359,
         "country": "FI",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/game_icons/arma3_liberation.png?raw=true"
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/1bcd2d91db5cb7158aa0eaa60ca2bfc127343961/images/arma3_logo_white.png?raw=true"
     },
     {
         "type": "SourceQuery",
@@ -46,6 +46,15 @@
         "channel": 860911205459427359,
         "country": "FI",
         "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/game_icons/arma3_escape.jpg?raw=true"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2623,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/game_icons/arma3_mikeforce.png?raw=true"
     },
     {
         "type": "SourceQuery",
