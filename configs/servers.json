@@ -36,7 +36,8 @@
         "port": 2603,
         "channel": 860911205459427359,
         "country": "FI",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true"
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #1**"
     },
     {
         "type": "SourceQuery",
@@ -45,7 +46,8 @@
         "port": 2613,
         "channel": 860911205459427359,
         "country": "FI",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/game_icons/arma3_escape.jpg?raw=true"
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #2**"
     },
     {
         "type": "SourceQuery",
@@ -54,7 +56,8 @@
         "port": 2623,
         "channel": 860911205459427359,
         "country": "FI",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/bda5b14aa0dd659ba591342af28a32f6b27a58cd/images/game_icons/arma3_mikeforce.png?raw=true"
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #2**"
     },
     {
         "type": "SourceQuery",
@@ -63,7 +66,68 @@
         "port": 2633,
         "channel": 860911205459427359,
         "country": "FI",
-        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/3f3e0b40971002af08490ce76c1c6ee4d1d2f4be/images/game_icons/arma3_liberation.png?raw=true"
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #3**"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2643,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #4**"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2653,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #5**"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2663,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #6**"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2673,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #7**"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2683,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #8**"
+    },
+    {
+        "type": "SourceQuery",
+        "game": "Arma 3",
+        "addr": "connect.16aa.net",
+        "port": 2693,
+        "channel": 860911205459427359,
+        "country": "FI",
+        "image_url": "https://github.com/MildlyInterested/DiscordGSM/blob/cc927863f8e3ac7169edeaa7a02a65d3cea00fa3/images/game_icons/arma3.png?raw=true",
+        "custom": "**Public #9**"
     }
 
 ]
